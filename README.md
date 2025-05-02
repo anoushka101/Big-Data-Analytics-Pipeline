@@ -1,5 +1,5 @@
 
-# Flipkart E-commerce Data Analysis Pipeline
+# Flipkart E-commerce Data Analysis Pipeline in AWS
 
 ## Project Overview
 This project implements a comprehensive big data analytics pipeline for processing and analyzing Flipkart's e-commerce dataset containing 5.7M+ records. The solution integrates multiple AWS services with PySpark for scalable data processing and real-time analytics.
